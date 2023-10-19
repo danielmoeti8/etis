@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/etis/static/css/main.decd48c0.css",
-    "main.js": "/etis/static/js/main.50ff0373.js",
+    "main.css": "/etis/static/css/main.15dd3508.css",
+    "main.js": "/etis/static/js/main.44e11554.js",
     "static/media/maddest.jpg": "/etis/static/media/maddest.5efc07c5446330783ce8.jpg",
     "static/media/kotiniFest.jpg": "/etis/static/media/kotiniFest.106ac7968878425b9484.jpg",
     "static/media/saints.jpg": "/etis/static/media/saints.38aaf2f7ae96bc8a1314.jpg",
@@ -10,11 +10,11 @@
     "static/media/thirdBackground.jpg": "/etis/static/media/thirdBackground.f4a6cd4efbf7e3912bf2.jpg",
     "static/media/L O U N G E.png": "/etis/static/media/L O U N G E.23d01cfe921956ceda93.png",
     "index.html": "/etis/index.html",
-    "main.decd48c0.css.map": "/etis/static/css/main.decd48c0.css.map",
-    "main.50ff0373.js.map": "/etis/static/js/main.50ff0373.js.map"
+    "main.15dd3508.css.map": "/etis/static/css/main.15dd3508.css.map",
+    "main.44e11554.js.map": "/etis/static/js/main.44e11554.js.map"
   },
   "entrypoints": [
-    "static/css/main.decd48c0.css",
-    "static/js/main.50ff0373.js"
+    "static/css/main.15dd3508.css",
+    "static/js/main.44e11554.js"
   ]
 }
