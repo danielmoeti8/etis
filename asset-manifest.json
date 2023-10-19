@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/etis/static/css/main.0960c7b8.css",
-    "main.js": "/etis/static/js/main.b18897df.js",
+    "main.js": "/etis/static/js/main.8aa5bafb.js",
     "static/media/maddest.jpg": "/etis/static/media/maddest.5efc07c5446330783ce8.jpg",
     "static/media/kotiniFest.jpg": "/etis/static/media/kotiniFest.106ac7968878425b9484.jpg",
     "static/media/saints.jpg": "/etis/static/media/saints.38aaf2f7ae96bc8a1314.jpg",
@@ -11,10 +11,10 @@
     "static/media/L O U N G E.png": "/etis/static/media/L O U N G E.23d01cfe921956ceda93.png",
     "index.html": "/etis/index.html",
     "main.0960c7b8.css.map": "/etis/static/css/main.0960c7b8.css.map",
-    "main.b18897df.js.map": "/etis/static/js/main.b18897df.js.map"
+    "main.8aa5bafb.js.map": "/etis/static/js/main.8aa5bafb.js.map"
   },
   "entrypoints": [
     "static/css/main.0960c7b8.css",
-    "static/js/main.b18897df.js"
+    "static/js/main.8aa5bafb.js"
   ]
 }
